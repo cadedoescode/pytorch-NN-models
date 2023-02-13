@@ -1,6 +1,6 @@
 # pytorch-NN-models
 
-My own implementation of various Neural Network Models:
+My own implementation of various basic Neural Network Models:
 
 CNN-LSTM for Sequence Prediction: https://colab.research.google.com/drive/1ab1KDqPBU1x9QafO6QcBe8qQ6jOGP4p_?usp=sharing
 
